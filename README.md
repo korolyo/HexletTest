@@ -1,6 +1,6 @@
 # HexletTest
 
-##Description
+## Description
 
 CLI utility that, when started, asks the user for a number and gives
 a response - Fizz, Buzz, FizzBuzz. Running the application displays a greeting
@@ -16,7 +16,10 @@ https://www.java.com/ru/download/manual.jsp
 ## How to run:
 ```
 git clone git@github.com:korolyo/HexletTest.git HexletTest
+
 cd HexletTest
+
 javac src/com/company/Main.java
+
 java -cp src com.company.Main
 ```
